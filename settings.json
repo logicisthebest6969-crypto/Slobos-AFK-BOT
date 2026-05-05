@@ -8,7 +8,7 @@
   "server": {
     "ip": "CorruptsmpS3-92fe.aternos.me",
     "port": 35553,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
